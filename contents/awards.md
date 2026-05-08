@@ -1,3 +1,5 @@
-- 校级一等奖学金, 2022.  
+- Mathematical Contest In Modeling(MCM/ICM)
+Meritorious Winner
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- China Undergraduate Mathematical Contest in Modeling
+Second Prize of Chongqing Competition Area
